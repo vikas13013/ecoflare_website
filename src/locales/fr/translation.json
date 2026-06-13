@@ -1,0 +1,1651 @@
+{
+    "website":"Site en maintenance",
+    "welcome": "Bienvenue chez EcoFlare!",
+    "home": "Accueil",
+    "about": "À propos",
+    "contact_us": "Contactez-nous",
+    "register": "S'inscrire",
+    "language_switch": "Passer en anglais",
+
+    "login_to_your_account": "Connectez-vous à votre compte",
+
+    "welcome_back_please_enter_your_credentials": "Content de te revoir! Veuillez entrer vos informations d'identification.",
+
+    "logging_you_in": "Vous connecter...",
+
+    "email_or_phone": "E-mail ou téléphone",
+
+    "password": "Mot de passe",
+
+    "hide": "Cacher",
+    
+    "show": "Montrer",
+
+    "forgot_password": "Mot de passe oublié ?",
+
+    "login": "Se connecter",
+
+    "dont_have_an_account": "Vous n'avez pas de compte ?",
+
+    "register_here": "Inscrivez-vous ici",
+
+    "login_register": "Connexion",
+
+    "my_profile": "Mon profil",
+
+    "seller_dashboard": "Tableau de bord du vendeur",
+
+
+    "search_products": "Rechercher des produits....",
+
+     "search_placeholder": "Rechercher des produits frais, des agriculteurs et plus encore...",
+    "reset_all": "Réinitialiser tout",
+
+    "go": "Aller",
+
+    "pricewise": "Niveau prix",
+
+    "our_solutions": "Nos solutions",
+
+    "pre_order_produce": "Produits en précommande",
+
+    "flexible_buying": "Achat flexible",
+
+    "marketplace": "Marché",
+
+    "for_buyers": "Pour les acheteurs",
+
+    "for_sellers": "Pour les vendeurs",
+
+    "get_farm_fresh_produce_with_transparent_pricing_and_flexible_options": "Obtenez des produits frais de la ferme avec des prix transparents et des options flexibles",
+
+    "explore_marketplace": "Explorer le marché",
+
+    "for_farmers_and_sellers": "Pour les agriculteurs et les vendeurs",
+
+    "sell_directly_to_buyers_earn_fair_prices_and_grow_with_our_wide_network": "Vendez directement aux acheteurs, obtenez des prix équitables et développez-vous grâce à notre vaste réseau.",
+
+    "start_selling_today": "Commencez à vendre aujourd'hui",
+
+    "trasparent_pricing_quality_assurance_secure_transactions": "Tarification transparente • Assurance qualité • Transactions sécurisées",
+
+    "view_full_marketplace": " Voir le marché complet",
+
+    "contact": "Contact",
+
+    "blog": "Blogue",
+
+    "your_browser_does_not_support_the_video_tag": "Votre navigateur ne prend pas en charge la balise vidéo.",
+
+    "we_connect_you_to_fresh_high_quality_produce_from_local_farms_no_middlemen": "Nous vous proposons des produits frais et de haute qualité provenant de fermes locales, sans intermédiaires.",
+
+    "affordable_produce_handpicked_and_delivered_from_nearby_farms_to_your_home_or_business": "Des produits abordables, triés sur le volet et livrés dans les fermes voisines à votre domicile ou votre entreprise.",
+
+    "shop_fresh_produce": "Achetez des produits frais",
+
+    "farm_fresh_doorstep_delivered": "Frais à la ferme, livré à domicile.",
+
+    "direct_from_farm_straight_to_you": "Directement de la ferme. Directement à vous.",
+    
+    "welcome_to_ecoflare_solutions": "Bienvenue chez EcoFlare Solutions",
+
+    "where_fresh_produce_meets": "Là où les produits frais se rencontrent",
+
+    "smart_technology": "Technologie intelligente",
+
+    "ecoflare_solutions_is_revolutionizing_the_way_fresh_produce_is_grown_sourced_and_delivered": "EcoFlare Solutions révolutionne la façon dont les produits frais sont cultivés, achetés et livrés. En combinant l'accès direct aux exploitations agricoles avec l'innovation numérique et la technologie blockchain, nous donnons aux acheteurs et aux agriculteurs les moyens de créer un marché plus intelligent et plus transparent.",
+    "direct_farm_access": "Accès direct à la ferme",
+
+      "buy_straight_from_local_farmers": "Achetez directement auprès des agriculteurs locaux.",
+
+      "transparent_pricing": "Tarification transparente",
+      
+      "fair_real_time_prices_with_no_hidden_fees": "Des prix équitables en temps réel, sans frais cachés.",
+      
+      "guaranteed_freshness": "Fraîcheur Garantie",
+      
+      "pre_order_for_peak_freshness_and_zero_waste": "Pré-commandez pour une fraîcheur maximale et zéro déchet.",
+
+      "more_about_us": "Plus à propos de nous",
+
+      "our_solutions_capital": "NOS SOLUTIONS",
+      
+      "empowering": "Autonomisation",
+
+      "farm_to_business": "De la ferme à l’entreprise",
+
+      "innovative_services_designed_to_bridge_the_gap_between_famers_and_buyers": "Des services innovants conçus pour combler le fossé entre les agriculteurs et les acheteurs avec transparence et efficacité.",
+
+      "connections": "Relations",
+
+      "b2bMarketplace": "Marché B2B",
+
+      "connect_directly_with_farmers_for_bulk_purchasing_our": "Connectez-vous directement avec les agriculteurs pour des achats en gros. Notre plateforme garantit des prix équitables, une assurance qualité et une logistique rationalisée.",
+      
+      "b2cPlatform": "Plateforme B2C",
+
+      "shop_farm_fresh_produce_with_complete_transparency": "Achetez des produits frais de la ferme en toute transparence. Sachez exactement d'où viennent vos aliments et soutenez l'agriculture locale.",
+
+      "smart_contracts": "Contrats intelligents",
+
+      "secure_automated_smart_contracts_that_protect_both": "Des contrats intelligents sécurisés et automatisés qui protègent à la fois les acheteurs et les agriculteurs.",
+
+      "learn_how_it_works": "Découvrez comment cela fonctionne",
+
+    "farm_fresh_produce": "Produits frais de la ferme",
+
+    "fair_prices": "Des prix équitables",
+
+    "quality_guaranteed": "Qualité garantie",
+
+    "sustainable_impact": "Impact durable",
+
+    "enjoy_produce_picked_at_peak_freshness": "Profitez de produits cueillis au maximum de leur fraîcheur, livrés directement de la ferme à votre table, garantissant le meilleur goût et la meilleure valeur nutritionnelle.",
+
+    "our_transparent_pricing_model_cuts_out_intermediaries": "Notre modèle de tarification transparent élimine les intermédiaires, propose des prix compétitifs et équitables et garantit que les agriculteurs sont équitablement rémunérés.",
+    
+    "every_product_is_verified_though_our_quality_checks": "Chaque produit est vérifié grâce à nos contrôles de qualité, garantissant la fraîcheur et favorisant la confiance entre acheteurs et vendeurs.",
+
+    "support_eco_friendly_farming_pratices_that_reduce_environmental": "Soutenez des pratiques agricoles respectueuses de l’environnement qui réduisent l’impact environnemental tout en livrant des produits de qualité supérieure à votre porte.",
+
+    "why_choose": "Pourquoi choisir",
+
+    "us?": "Nous?",
+
+    "revolutionzing_the_way_canada_buys_produce": "Révolutionner la façon dont le Canada achète ses produits.",
+    
+    "at_ecoflare_solutions_we_bring_you_direct_access_to_farm_fresh_fruits_and_vegetables": "Chez EcoFlare Solutions, nous vous offrons un accès direct aux fruits et légumes frais de la ferme, sans intermédiaire. Juste une qualité à laquelle vous pouvez faire confiance, livrée directement à la source.",
+
+    "your_produce_should_be_as_smart_as_your_business": "Vos produits doivent être aussi intelligents que votre entreprise.",
+
+    "with_ecoflare_pricewise_marketplace_pre_order_harvests": "Avec la place de marché PriceWise d'EcoFlare, précommandez des récoltes, négociez des prix flexibles et concluez des accords avec des contrats intelligents, le tout sur une seule plateforme numérique sécurisée.",
+
+    "our": "Notre",
+
+    "trusted": "Confiance",
+
+    "partners": "Partenaires",
+
+    "collaborating_with_industry_leaders_to_deliver_excellence": "Collaborer avec les leaders de l’industrie pour offrir l’excellence.",
+
+    "stay_updated_with_ecoflare": "Restez à jour avec EcoFlare",
+
+    "your_email_address": "Votre adresse e-mail",
+
+    "sending...": "Envoi...",
+
+    "subscribe": "S'abonner",
+
+    "well_never_share_your_email_with_anyone_else": "Nous ne partagerons jamais votre e-mail avec quelqu'un d'autre.",
+
+    "quick_links": "Liens rapides",
+
+    "follow_us": "Suivez-nous",
+
+    "download_our_app": "Téléchargez notre application",
+
+    "ecoflare_solutions_inc_all_rights_reserved": "EcoFlare Solutions Inc. Tous droits réservés.",
+
+     "create_your_account": "Créez votre compte",
+
+    "join_us_to_get_started": "Rejoignez-nous pour commencer",
+
+    "creating_your_account": "Création de votre compte...",
+
+    "first_name": "Prénom",
+
+    "last_name": "Nom de famille",
+
+    "email_address": "Adresse email",
+
+    "confirm_password": "Confirmez le mot de passe",
+
+    "registering....": "Enregistrement...",
+
+    "already_have_an_account": "Vous avez déjà un compte ?",
+
+    "sign_in": "Se connecter",
+
+    "phone_number": "Numéro de téléphone",
+    "ecoflare_solutions_presents_pricewise": "EcoFlare Solutions présente : PriceWise™",
+
+    "a_smart_b2b_marketplace_for": "Une place de marché B2B intelligente pour",
+
+    "fresh_and_fairly_priced": "Frais et à prix raisonnable",
+
+    "produce": "Produire!",
+
+    "Explore_Pricewise": "Explorer en termes de prix",
+
+    "list_your_produce": "Listez vos produits",
+
+    "empowering_farmers_buyers_and_retailers_with_smart_contracts": "Offrir aux agriculteurs, aux acheteurs et aux détaillants des contrats intelligents, un approvisionnement traçable et des prix transparents, le tout sur une seule plateforme de confiance.",
+
+    "ecoflare_introduces_pricewise": "EcoFlare présente PriceWise",
+
+    "redefining_fresh_produce_with_smart": "Redéfinir les produits frais avec Smart",
+
+    "solutions": "Des solutions !",
+
+    "welcome_to_priwise_by_ecoflare_the_next_gen_b2b_marketplace": "Bienvenue sur PriceWise by EcoFlare, la place de marché B2B de nouvelle génération qui transforme la façon dont Fresh Produce Market se connecte, vend et évolue.",
+
+    "no_middlemen": "Pas d'intermédiaires",
+
+    "zero_waste_promise": "Promesse zéro déchet",
+
+    "full_traceability_with_smart_contracts": "Traçabilité complète avec des contrats intelligents",
+
+    "digital_trade_made_simple": "Le commerce numérique simplifié",
+
+    "digital_tools_that_simplify_complex_trade_from_seed_to_shelf": "Des outils numériques qui simplifient les échanges complexes, de la graine à l'étagère.",
+
+    "trust_in_every_transaction": "Faites confiance à chaque transaction",
+
+    "fair_trade_real_relationships_better_food_for_all": "Commerce équitable. Relations authentiques. Une meilleure alimentation pour tous.",
+
+    "real_impact_local_reach": "Impact réel, portée locale",
+
+    "pricewise_helps_rural_produces_access_urban_demand_fast_and_fair": "PriceWise aide les producteurs ruraux à accéder rapidement et équitablement à la demande urbaine.",
+
+    "browse_or_list_produce": "Parcourir ou répertorier les produits",
+
+    "dicover_produce_from_local_farmers_or_list_your_own_crops_for_sale": "Découvrez les produits des agriculteurs locaux ou mettez en vente vos propres récoltes",
+
+    "accept_or_place_orders": "Accepter ou passer des commandes",
+
+    "easily_accept_incoming_orders_or_place_new_ones_with_our_intuitive_platform": "Acceptez facilement les commandes entrantes ou passez-en de nouvelles avec notre plateforme intuitive",
+
+    "sign_smart_contract": "Signer un contrat intelligent",
+
+    "secure_digital_contracts_with_built_in_trust_and_transparency": "Contrats numériques sécurisés avec confiance et transparence intégrées",
+
+    "delivery_and_payment": "Livraison et paiement",
+     
+    "track_deliveries_in_real_time_and_enjoy_sealess_payment_processing": "Suivez les livraisons en temps réel et profitez d'un traitement des paiements transparent",
+
+    "how_it_works": "Comment ça marche !",
+
+    "simple_steps_to_connect": "Étapes simples pour se connecter",
+
+    "producers_and_buyers": "producteurs et acheteurs",
+
+    "seamlessly": "en toute transparence !",
+
+    "agriculture_is_the_backbone_of_our_society_providing_food_raw_materials": "L’agriculture est l’épine dorsale de notre société, fournissant de la nourriture, des matières premières et une stabilité économique.",
+
+    "secure_harvest_before_its_picked": "Sécuriser la récolte avant la cueillette",
+     
+    "plan_and_reserve_your_harvest_before_its_picked": "Planifiez et réservez votre récolte avant la cueillette. Profitez d'une fraîcheur optimale, de prix garantis et d'une livraison rapide directement de la ferme.",
+     
+    "tiered_pricing_based_on_quality": "Tarification échelonnée en fonction de la qualité",
+     
+    "only_pay_for_what_meets_your_standards": "Payez uniquement ce qui correspond à vos critères. Choisissez des tarifs en fonction de la qualité des produits, équitable pour vous et pour les agriculteurs.",
+     
+    "auto_enforced_agreements_and_delivery_terms": "Accords et conditions de livraison appliqués automatiquement",
+
+    "digitaly_signed_blockchain_baked_agreements_ensure_trusted": "Les accords signés numériquement et soutenus par la blockchain garantissent des transactions fiables et transparentes avec des conditions appliquées automatiquement.",
+
+    "your_one_stop": "Votre guichet unique",
+
+    "smart_fresh_produce": "Produits frais et intelligents",
+
+    "pricewise_ecoflares_innovative_platform_is_transforming_how_fresh_produce_is_bought_and_sold": "PriceWise, la plateforme innovante d'EcoFlare, révolutionne l'achat et la vente de produits frais. Que vous soyez acheteur ou vendeur, notre plateforme intelligente vous offre contrôle, transparence et efficacité, le tout depuis un seul et même endroit.",
+
+    "set_your_pricing_tiers": "Définissez vos niveaux de tarification",
+
+    "pre_sell_upcoming_harvests": "Pré-vente des récoltes à venir",
+
+    "pre_sell_future_harvests": "Pré-vendre les futures récoltes",
+
+    "for_producers_sellers": "Pour les producteurs / vendeurs",
+
+    "grow_list_and_earn": "Grandissez, répertoriez et gagnez",
+
+    "without_middlemen": "Sans intermédiaires",
+
+    "connect_directly_with_buyers_while_maintaining_pricing_control": "Connectez-vous directement avec les acheteurs tout en gardant le contrôle des prix.",
+
+    "start_selling": "Commencez à vendre",
+
+    "explore_features": "Explorer les fonctionnalités",
+
+    "for_buyers_and_retailers": "Pour les acheteurs et les détaillants",
+
+    "get_farm_fresh_produce": "Obtenez des produits frais de la ferme",
+
+    "with_full_transparency": "en toute transparence",
+
+    "build_reliable_supply_chains_with_transparent_pricing": "Construisez des chaînes d’approvisionnement fiables avec des prix transparents.",
+
+    "order_in_advance_or_on_demand": "Commandez à l'avance ou sur demande",
+
+    "pay_based_on_quality_delievered": "Rémunération basée sur la qualité délivrée",
+
+    "quality_assurance": "Assurance qualité",
+
+    "track_every_order_from_field_to_fork": "Suivez chaque commande du champ à la fourchette",
+    "about_us": "À propos de nous",
+
+     "cultivating_the_future_of_food": "Cultiver l'avenir de l'alimentation",
+
+     "where_technoloty_meets_agriculture_to_create_sustainable": "Là où la technologie rencontre l'agriculture pour créer des chaînes d'approvisionnement durables et transparentes",
+
+     "who_we_are": "Qui sommes-nous",
+
+     "ecoflare_solutions_inc_is_committed_to_revolutionizing_the_fresh_produce": "EcoFlare Solutions Inc. s'engage à révolutionner le marché des produits frais en misant sur la technologie et l'innovation. Nous mettons directement en relation les producteurs avec les consommateurs et les entreprises, garantissant ainsi transparence, durabilité et prix équitables à chaque transaction.",
+
+     "our_value": "Notre valeur",
+
+     "to_create_an_equitable_efficient_and_sustainable_marketplace_for_fresh_produce": "Créer un marché équitable, efficace et durable pour les produits frais.",
+
+     "our_commitment": "Notre engagement",
+
+     "ensuring_fair_prices_and_delivering_fresh_high_quality_produce_to_all": "Assurer des prix justes et fournir à tous des produits frais et de haute qualité.",
+
+     "innovation_in_fresh_produce_market": "Innovation dans le marché des produits frais",
+
+     "leading_the_way_in": "Montrer la voie en",
+
+     "transforming": "Transformer",
+
+     "the_produce_market_for_a_sustainable_and_equitble_future": "le marché des produits pour un avenir durable et équitable",
+
+     "ecoflare_solutions_connects_buyers_directly_with_farmers_through_transparent_pricing": "EcoFlare Solutions connecte les acheteurs directement aux agriculteurs grâce à des prix transparents, des précommandes et une technologie intelligente, rendant les produits frais plus équitables, traçables et durables pour tous.",
+
+     "empowering_famers": "Autonomiser les agriculteurs",
+
+     "engaging_buyers": "Engager les acheteurs",
+
+     "enabling_growth": "Favoriser la croissance",
+
+     "explore_our_visual_story": "Explorez notre histoire visuelle",
+
+     "a_journey_from_canadian_farms_to_your_fork_step_into_the_world": "Un voyage des fermes canadiennes à votre fourchette Entrez dans le monde d'EcoFlare Solutions où l'innovation rencontre la nature et où chaque image raconte une histoire.",
+
+     "view_photo_gallery": "Voir la galerie de photos",
+     
+     "upcoming_events": "Événements à venir",
+
+     "leadership_team": "Équipe de direction",
+
+     "meet_the_passionate_team_driving_our_mission_to_revolutionize_agriculture": "Rencontrez l’équipe passionnée qui mène notre mission de révolutionner l’agriculture.",
+
+     "ready_to_shape_the_future_of_food": "Prêt à façonner l'avenir de l'alimentation ?",
+
+     "join_a_unified_B2B_B2C_markeplace_revolutionzing_how_fresh_produce_connects": "Rejoignez un marché B2B/B2C unifié qui révolutionne la façon dont Fresh Produce se connecte, échange et se développe.",
+
+     "whether_youre_a_farmer_buyer_or_advocate_for_sustainable_food": "Que vous soyez agriculteur, acheteur ou défenseur d'une alimentation durable, restons en contact.",
+
+     "get_in_touch": "Entrer en contact",
+
+     "ceo": "PDG",
+
+     "business_services_manager": "Responsable des services aux entreprises",
+
+     "finance_manager": "directeur financier",
+
+     "sales_manager": "Directeur des ventes",
+
+     "customer_relationship_manager": "Responsable des relations avec la clientèle",
+     
+     "our_vision": "Notre vision",
+
+     "our_vision_is_to_transform_the_fresh_produce_market_into_a_transparent": "Notre vision est de transformer le marché des produits frais en un écosystème transparent, efficace et durable. Nous nous efforçons de soutenir les agriculteurs locaux, de réduire le gaspillage alimentaire et d'offrir aux consommateurs les produits les plus frais possibles, garantissant ainsi un marché juste et équitable pour tous.",
+
+     "our_mission": "Notre mission",
+
+     "ecoflare_mission_is_to_connect_famers_directly_with_consumers_and_business": "La mission d'EcoFlare est de relier directement les agriculteurs aux consommateurs et aux entreprises, en éliminant les intermédiaires et en garantissant des prix équitables. Nous nous engageons à favoriser la confiance, la transparence et la durabilité dans la chaîne d'approvisionnement alimentaire, en rendant les produits frais et abordables accessibles à tous.",
+
+     "pre_order_with_confidence_plan_pay_smart": "Précommandez en toute confiance. Planifiez, payez intelligemment.",
+
+     "browse_upcoming_harvests_and_set_expectations": "Parcourez les récoltes à venir et établissez vos attentes",
+
+     "view_real_time_listings_negotiate_quantity_and_delivery_and": "Consultez les listes en temps réel, négociez la quantité et la livraison et finalisez les commandes avec des contrats intelligents sécurisés par blockchain, le tout au même endroit.",
+
+     "transforming_the_way_you_source_fresh_produce": "Transformer la façon dont vous vous approvisionnez en produits frais",
+
+     "connect_directly_with_verified_farms": "Connectez-vous directement avec des fermes vérifiées",
+
+     "no_middlemen_just_transparent_farm_fresh_produce_at_competitive_price_delivered_when_you_need_it": "Pas d'intermédiaires. Des produits frais de la ferme, transparents et à prix compétitifs, livrés quand vous en avez besoin.",
+
+     "pre_order": "Précommande",
+
+     "farm_fresh": "Frais de la ferme",
+
+     "secure_the_harvest_support_the_future_eat_fresher": "Sécurisez vos récoltes. Appuyez l'avenir. Mangez plus frais.",
+
+     "why_wait_for_availability_when_you_can_reserve_produce_straight_from_trusted_local_farms": "Pourquoi attendre la disponibilité alors que vous pouvez réserver des produits directement auprès de fermes locales de confiance ?",
+
+     "ecofalre_preorder_system_lets_you_lock_in_quality": "Le système de précommande d'Ecoflare vous permet d'assurer la qualité, le prix et la livraison avant même le début de la récolte.",
+
+     "how": "Comment",
+
+     "works": "Travaux",
+
+     "browse_upcoming_harvests": "Parcourir les récoltes à venir",
+
+     "explore_real_time_listings_of_verified_famrs": "Consultez en temps réel les annonces de fermes vérifiées. Pas de pression pour vous engager avant d'être prêt.",
+
+     "set_expectations_with_the_farmer": "Établir des attentes avec l'agriculteur",
+
+     "agree_on_quantity_quantity_quality": "Convenez de la quantité, de la qualité et du délai de livraison, selon vos conditions.",
+
+     "confirm_with_smart_contracts": "Confirmer avec des contrats intelligents",
+
+     "your_agreement_is_securely_recorded_using_blockchain_backed_smart_contracts_for_full_transparency": "Votre entente est enregistrée en toute sécurité à l'aide de contrats intelligents basés sur la chaîne de blocs pour une transparence totale.",
+
+     "track_your_harvest": "Suivez votre récolte",
+
+     "farmers_update_availability_and_timelines": "Les agriculteurs mettent à jour leurs disponibilités et leurs échéances. Suivez tout depuis votre tableau de bord personnalisé.",
+
+     "get_fresh_delivery": "Obtenez une livraison fraîche",
+
+     "produce_is_delivered_as_promised_payments_are_processed": "Les produits sont livrés tel que promis. Les paiements sont traités selon les conditions du contrat : acompte partiel ou livraison ultérieure.",
+
+     "why_pre_order": "Pourquoi précommander",
+
+     "with_ecoflare": "avec Écoflare ?",
+
+     "peak_freshness": "Fraîcheur maximale",
+
+     "harvested_at_ripeness_and_delivered_direct_to_your_door": "Récolté à maturité et livré directement à votre porte.",
+
+     "early_bird_savings": "Économies pour les lève-tôt",
+
+     "save_by_securing_your_order_in_advance": "Économisez en sécurisant votre commande à l'avance.",
+     
+     "farmer_first_model": "Modèle Farmer First",
+
+     "help_farmers_plan_reduce_waste_and_boost_income": "Aidez les agriculteurs à planifier, à réduire les déchets et à augmenter leurs revenus.",
+
+     "stable_pricing": "Prix ​​stables",
+
+     "lock_in_prices_ahead_of_seasonal_spikes_and_shortages": "Établissez les prix avant les pics saisonniers et les pénuries.",
+
+     "smarter_seamless": "Plus intelligent. Transparent.",
+
+     "sustainable": "Durable.",
+
+     "pre_ordering_isnt_just_a_transaction": "La précommande n’est pas seulement une transaction, c’est une meilleure façon de renforcer la sécurité alimentaire.",
+
+     "real_quality_real_value": "Une vraie qualité. Une vraie valeur.",
+
+     "real_trust": "La vraie confiance.",
+
+     "explore_produce_listings": "Explorer les listes de produits",
+
+     "start_a_pre_order_produce": "Démarrer une précommande de produits",
+
+     "your_produce_your_terms_our_technology": "Vos produits. Vos conditions. Notre technologie.",
+     
+     "flexible_buying_fair_pricing": "Achat flexible, prix équitable",
+
+     "pay_only_for_the_quality_you_receive": "Payez uniquement pour la qualité que vous recevez.",
+
+     "no_more_flat_rates_for_varied_quality": "Fini les forfaits pour une qualité variée. EcoFlare vous permet de choisir des niveaux de qualité et de payer en conséquence de manière équitable pour les agriculteurs, plus intelligent pour les acheteurs.",
+
+     "set_your_quality_standards": "Définissez vos normes de qualité",
+
+     "you_decide": "Vous décidez.",
+
+     "define_your_standards_before_the_harvest": "Définissez vos standards avant la récolte. Des options de qualité supérieure aux options économiques, payez exactement ce que valent vos produits.",
+
+     "select_and_agree_on_quality_tiers": "Sélectionner et convenir des niveaux de qualité",
+
+     "choose_your_produce_and_agree_to_pricing_based_on_grading_standards": "Choisissez vos produits et acceptez des prix basés sur des normes de classement.",
+
+     "lock_terms_with_smart_contracts": "Verrouiller les conditions avec des contrats intelligents",
+
+     "all_agreements_are_securely_stoered_on_blockchain_for_trust_and_transparency": "Tous les accords sont stockés en toute sécurité sur la blockchain pour plus de confiance et de transparence.",
+
+     "adjusted_pricing": "Prix ​​ajusté",
+
+     "final_payment_reflects_the_delivered_grade_no_overpaying_no_disputes": "Le paiement final reflète la qualité livrée, pas de trop-payé, pas de litige.",
+
+     "fair_payment_settlement": "Règlement de paiement équitable",
+
+     "sellers_are_paid_according_to_the_quality_delivered": "Les vendeurs sont payés en fonction de la qualité livrée. Les acheteurs paient ce que ça vaut.",
+
+     "flexible_buying?": "Achat flexible ?",
+
+     "reduced_risk": "Risque réduit",
+
+     "only_pay_for_the_quality_you_receive": "Ne payez que pour la qualité que vous recevez.",
+
+     "contract_clarity": "Clarté du contrat",
+
+     "smart_contracts_eliminate_confusion": "Les contrats intelligents éliminent la confusion.",
+
+     "built_in_transparency": "Transparence intégrée",
+
+     "quality_checks_ensure_mutual_accountability": "Les contrôles de qualité garantissent une responsabilité mutuelle.",
+
+     "fair_returns": "Des retours équitables",
+
+     "high_quality_producers_get_rewarded_buyers_get_value": "Les producteurs de haute qualité sont récompensés. Les acheteurs obtiennent de la valeur.",
+
+     "start_a_flexible_produce": "Démarrez un produit flexible",
+
+      "ecoflare_insights": "Informations sur ÉcoFlare",
+
+     "discover_sustainable_living_tips_and_organic": "Découvrez des conseils de vie durable et des connaissances en agriculture biologique",
+
+     "latest": "Dernière",
+
+     "articles": "Articles",
+
+     "discover_our_newest_content_on_sustainable_living": "Découvrez notre nouveau contenu sur la vie durable.",
+
+     "next_page": "PAGE SUIVANTE",
+
+    "join_the_movement_for_sustainable_food": "Rejoignez le mouvement pour une alimentation durable ! #MoinsDeGaspillagePlusDeGoût #AlimentationDurable",
+
+    "join_the_fair_pricing_revolution": "💰 Rejoignez la révolution du prix équitable et soutenez l’agriculture durable dès aujourd’hui !",
+
+    "join_ecoflare_in_redefining_future_of_agriculture": "Rejoignez EcoFlare pour redéfinir l’avenir de l’agriculture. Que vous soyez agriculteur, distributeur ou consommateur, vivez l’harmonie parfaite entre technologie et tradition, et contribuez à bâtir un écosystème agricole résilient pour les générations futures.",
+
+  "join_the_fair_trade_movement": "Rejoignez le mouvement du commerce équitable et soutenez les agriculteurs dès aujourd’hui ! #SoutenirLesAgriculteurs #CommerceÉquitable",
+
+  "blog6_title": "Pourquoi la précommande de produits frais est la clé pour réduire le gaspillage alimentaire",
+
+  "blog6_description": "Résoudre la crise du gaspillage alimentaire grâce à une planification plus intelligente avec le système innovant de précommande d’EcoFlare.",
+
+  "blog6_p1": "Chaque année, des millions de tonnes de nourriture sont gaspillées à cause de chaînes d’approvisionnement inefficaces et de la surproduction. Les agriculteurs produisent plus que nécessaire, incertains de la demande du marché, tandis que les consommateurs jettent souvent l’excédent.",
+
+  "blog6_p2": "EcoFlare s’attaque à ce problème avec un système de précommande, où les acheteurs passent commande à l’avance, permettant aux agriculteurs de récolter uniquement ce qui est nécessaire.",
+
+  "blog6_h2_how_preordering_works": "Comment fonctionne la précommande",
+
+  "blog6_li1": "Les consommateurs et les entreprises passent commande de produits frais.",
+
+  "blog6_li2": "Les agriculteurs récoltent exactement ce qui est nécessaire, réduisant ainsi le gaspillage.",
+
+  "blog6_li3": "Moins de surplus, moins de gaspillage, des aliments plus frais pour tous !",
+
+  "blog6_h2_success_story": "Étude de cas : la réduction du gaspillage du restaurant de Sarah",
+
+  "blog6_success_story_p": "Sarah, propriétaire d’un restaurant à Vancouver, achetait autrefois trop de produits, ce qui entraînait un gaspillage alimentaire important. Avec le modèle de précommande d’EcoFlare, elle commande désormais précisément ce dont elle a besoin, réduisant son gaspillage de 25 % et optimisant l’utilisation des ressources.",
+
+  "blog6_h2_environmental_benefits": "Les avantages environnementaux de la précommande",
+
+  "blog6_benefit_1": "Moins de gaspillage alimentaire = empreinte carbone réduite",
+
+  "blog6_benefit_2": "Meilleure planification des stocks pour les agriculteurs et les entreprises",
+
+  "blog6_benefit_3": "Produits plus frais et plus sains pour les consommateurs",
+
+  "blog7_title": "Tarification flexible et commerce équitable : la nouvelle ère de l’achat de produits frais",
+
+  "blog7_description": "Un modèle de tarification transparent et équitable qui profite à la fois aux agriculteurs et aux consommateurs tout en réduisant le gaspillage alimentaire.",
+
+  "blog7_p1": "Dans l’industrie des produits frais d’aujourd’hui, l’un des plus grands défis est la tarification injuste : les agriculteurs reçoivent souvent une faible rémunération, tandis que les consommateurs paient des prix élevés à cause des inefficacités de la chaîne d’approvisionnement. Les systèmes traditionnels de vente au détail et en gros contribuent également au gaspillage, car ils rejettent les produits pour des imperfections esthétiques plutôt que pour leur valeur nutritionnelle.",
+
+  "blog7_p2": "Pour résoudre ces problèmes, EcoFlare a introduit un modèle innovant de tarification par paliers qui garantit une juste rémunération des agriculteurs, permet aux consommateurs d’accéder à des produits frais et abordables, et réduit le gaspillage alimentaire.",
+
+  "blog7_h2_how_tiered_pricing_works": "Comment fonctionne la tarification par paliers d’EcoFlare",
+
+  "blog7_explainer": "La structure tarifaire d’EcoFlare permet flexibilité et équité en classant les produits frais en différentes catégories de qualité, chacune étant tarifée en conséquence :",
+
+  "blog7_tier_topgrade": "🌟 Produits de première qualité – Prix le plus élevé pour des fruits et légumes premium à l’apparence parfaite et à la fraîcheur optimale.",
+
+  "blog7_tier_midgrade": "👍 Produits de qualité intermédiaire – Prix réduit pour des imperfections légères, comme de petites taches ou des formes irrégulières, mais toujours excellents en goût et en nutrition.",
+
+  "blog7_tier_lowergrade": "🍏 Produits de qualité inférieure – Options économiques pour des produits présentant des défauts esthétiques mais restant frais et sains à consommer.",
+
+  "blog7_h2_benefits_of_tiering": "Les avantages de la tarification par paliers :",
+
+  "blog7_benefit_fair_compensation": "✅  Rémunération équitable pour les agriculteurs – Plus de produits rejetés pour des imperfections mineures. Les agriculteurs gagnent selon la qualité, assurant une meilleure rentabilité.",
+
+  "blog7_benefit_affordable_options": "✅  Options abordables pour les consommateurs – Les clients peuvent choisir la catégorie qui correspond à leur budget et à leurs besoins, rendant les produits frais plus accessibles.",
+
+  "blog7_benefit_reduce_waste": "✅  Réduction du gaspillage alimentaire – Au lieu de jeter des produits pour leur apparence, les détaillants et les consommateurs adoptent les options « imparfaites mais fraîches », aidant à réduire le gaspillage.",
+
+  "blog7_h2_success_story_michael": "Étude de cas : la transformation du supermarché de Michael",
+
+  "blog7_michael_p1": "Michael, directeur de supermarché, faisait face à un problème majeur de gaspillage : des produits parfaitement comestibles étaient jetés à cause de petites imperfections, entraînant des pertes pour les agriculteurs et son entreprise.",
+
+  "blog7_michael_p2_intro": "Lorsqu’il est passé au modèle de tarification par paliers d’EcoFlare, il a :", 
+
+  "blog7_michael_li1": "✅  Acheté des produits de catégorie inférieure à prix réduit et les a étiquetés « imparfaits mais frais ».",
+
+  "blog7_michael_li2": "✅  Augmenté ses ventes en proposant aux clients des choix plus abordables et durables.",
+
+  "blog7_michael_li3": "✅  Réduit le gaspillage en valorisant davantage de produits qui auraient été jetés.",
+
+  "blog7_h2_future_of_pricing": "L’avenir de la tarification équitable",
+
+  "blog7_future_list_item1": "✔️  Donner plus de pouvoir aux agriculteurs grâce à des salaires équitables.",
+
+  "blog7_future_list_item2": "✔️  Offrir aux consommateurs des aliments de haute qualité à des prix plus abordables.",
+
+  "blog7_future_list_item3": "✔️  Promouvoir la durabilité en réduisant le gaspillage alimentaire.",
+
+  "blog3_title": "Quand la technologie rencontre la tradition : innover dans les communautés agricoles",
+
+  "blog3_description": "La technologie ne remplace pas la tradition — elle l’améliore. Les agriculteurs canadiens possèdent des générations de savoir-faire enracinées dans le travail acharné et la connaissance profonde de la terre.",
+
+  "blog3_h2_examples": "Exemples",
+
+  "blog3_h3_data_driven": "1. Agriculture pilotée par les données : optimiser les rendements",
+
+  "blog3_data_driven_p": "EcoFlare apporte l’agriculture de précision aux agriculteurs canadiens grâce à des solutions basées sur les données. En analysant la qualité du sol, les conditions météorologiques et la santé des cultures, les agriculteurs peuvent prendre des décisions éclairées qui maximisent les rendements et minimisent le gaspillage. Cette combinaison d’outils modernes et de pratiques traditionnelles mène à des exploitations plus efficaces et durables.",
+
+  "blog3_h3_smart_contracts": "2. Contrats intelligents : moderniser les transactions",
+
+  "blog3_smart_contracts_p": "EcoFlare utilise des contrats intelligents basés sur la blockchain pour simplifier les transactions entre agriculteurs, acheteurs et distributeurs. Ces contrats garantissent des accords transparents et sécurisés, réduisant les litiges et les retards de paiement. Les agriculteurs peuvent se concentrer sur leur cœur de métier — produire des aliments de qualité — tout en bénéficiant d’une approche moderne des affaires.",
+
+  "blog3_h3_preorders": "3. Précommandes : mieux planifier, moins gaspiller",
+
+  "blog3_preorders_p": "Le système de précommande d’EcoFlare permet aux agriculteurs d’aligner leur production sur la demande. En permettant aux acheteurs de commander à l’avance, les agriculteurs peuvent planifier efficacement leurs ressources, réduisant ainsi les surplus et le gaspillage. Cette innovation garantit une meilleure rentabilité pour les agriculteurs tout en répondant aux enjeux de durabilité.",
+
+  "blog3_h2_call_to_action": "Appel à l’action",
+
+  "blog3_cta_p1": "EcoFlare prouve que technologie et tradition peuvent coexister harmonieusement, créant des opportunités de croissance, d’efficacité et de durabilité dans les communautés agricoles. Les agriculteurs n’ont plus besoin de choisir entre leurs racines et l’innovation — ils peuvent adopter les deux.",
+
+  "blog4_title": "EcoFlare : autonomiser les agriculteurs et transformer le commerce des produits frais",
+
+  "blog4_description": "Transformer l’agriculture grâce au commerce équitable et à l’accès direct au marché. Pendant des décennies, les agriculteurs ont souffert de faibles profits et de la dépendance envers les intermédiaires.",
+
+  "blog4_p1": "Pendant des décennies, les agriculteurs ont souffert de faibles revenus, de la dépendance aux intermédiaires et de prix de marché fluctuants qui leur laissaient peu de bénéfices. Les circuits de distribution traditionnels impliquent souvent de multiples intermédiaires qui prennent une part importante des profits, laissant les agriculteurs avec une rémunération insuffisante.",
+
+  "blog4_p2": "EcoFlare révolutionne le secteur en créant une plateforme de vente directe qui connecte les agriculteurs directement aux consommateurs, supermarchés et restaurants — supprimant le besoin d’intermédiaires.",
+
+  "blog4_h2_how_ecoflare_works": "Comment EcoFlare fonctionne pour les agriculteurs",
+
+  "blog4_li1": "Fixer leurs prix en fonction de la demande réelle.",
+
+  "blog4_li2": "Vendre directement aux acheteurs, améliorant ainsi leurs marges.",
+
+  "blog4_li3": "Utiliser des données pour planifier efficacement les récoltes.",
+
+  "blog4_h2_success_john": "Étude de cas : le parcours de John vers des profits plus élevés",
+
+  "blog4_john_p": "John, un petit agriculteur de l’Ontario, dépendait auparavant des grossistes qui dictaient les prix, ce qui lui laissait peu de bénéfices. Après avoir rejoint EcoFlare, il a contourné les intermédiaires, vendu directement aux consommateurs et augmenté ses revenus de 40 %.",
+
+  "blog4_h2_future_of_fair_trade": "L’avenir de l’agriculture équitable",
+  "lets_connect": "Connectons-nous !",
+
+  "subject": "Sujette",
+
+  "message": "Message",
+
+  "submit": "Soumettre",
+
+  "reach_out_to_us": "Contactez-nous !",
+
+  "email": "Courriel",
+
+  "socials": "Réseaux sociaux",
+
+  "your_message": "Votre message",
+
+  "subject_is_required": "Le sujet est obligatoire",
+
+  "message_is_required": "Le message est obligatoire",
+
+  "please_fill_in_all_required_fields_correctly": "Veuillez remplir tous les champs obligatoires correctement",
+
+  "sending_your_message": "Envoi de votre message",
+
+  "failed_to_send_message": "Échec de l'envoi du message",
+
+  "your_message_has_been_sent_successfully": "Votre message a été envoyé avec succès!",
+
+  "failed_to_send_message_Please_try_again_later": "Échec de l'envoi du message. Essayez de nouveau ultérieurement.",
+
+    "post_not_found": "Publication introuvable",
+
+     "the_blog_post_your_looking_for_doesnt_exist_or_may_have_been_removed": "L'article de blogue que vous recherchez n'existe pas ou a peut-être été supprimé.",
+
+     "browse_all_posts": "Parcourir tous les articles",
+
+     "blog_details": "Détails du blogue",
+
+     "discover_insights_and_stories_about_healthy_living": "Découvrez des idées et des histoires sur une vie saine",
+
+     "comments": "Commentaires",
+
+     "share": "Partager",
+
+     "food_blogger_and_nutritionist": "Blogueuse culinaire et nutritionniste",
+
+     "passionate_about_creating_healthy_delicious_recipes_that_nourish": "Passionnée par la création de recettes saines et délicieuses qui nourrissent le corps et l'esprit, suivez-moi pour des idées de repas et des conseils nutritionnels hebdomadaires !",
+
+     "leave_a_comment": "Laissez un commentaire",
+
+     "name": "Nom",
+
+     "comment": "Commentaire",
+
+     "save_my_name_email_and_website_in_this_browser_for_the_next_time": "Enregistrer mon nom, mon courriel et mon site web dans le navigateur pour mon prochain commentaire.",
+
+     "post_comment": "Publier un commentaire",
+
+     "search": "Rechercher",
+
+     "categories": "Catégories",
+
+     "search_posts": "Chercher des articles...",
+
+     "popular_tags": "Mots-clés populaires",
+
+     "your_name": "Votre nom",
+
+     "your_email": "Votre courriel",
+
+     "your_thoughts": "Vos pensées...",
+     "revolutionize_your_produce_sourcing": "Révolutionnez votre approvisionnement en produits",
+     
+     "direct_farm_access_better_pricing_smarter_sustainable_choices": "Accès direct à la ferme. Meilleurs prix. Des choix plus intelligents et durables.",
+
+     "join_the_marketplace": "Joignez-vous à la Place de marché",
+
+     "powerful_tools_for": "Des outils puissants pour",
+
+     "buyers": "Acheteuses",
+
+     "everything_you_need_to_source_produce_efficiently_and_build_better_supplier_relationship": "Tout ce dont vous avez besoin pour vous approvisionner efficacement en produits et établir de meilleures relations avec vos fournisseurs.",
+
+     "digital_agreements_with_flexible_terms_for_volume_discounts_and_scheduled_deliveries": "Accords numériques assortis de conditions flexibles pour les rabais sur volume et les livraisons prévues",
+
+     "secure_payments": "Paiements sécurisés",
+
+     "safe_and_secure_payments": "Paiements sûrs et sécurisés",
+
+     "scheduled_buying": "Achat planifié",
+
+     "automate_recurring_orders_for_a_consistent_supply_of_staple_items": "Automatisez les commandes récurrentes pour un approvisionnement constant en articles de base",
+
+     "order_tracking_and_assurance": "Suivi et assurance des commandes",
+
+     "get_real_time_updates_from_farm_to_doorstep": "Recevez des mises à jour en temps réel de la ferme à la porte, soutenues par notre garantie de satisfaction.",
+
+     "save_time": "Gagnez du temps",
+
+     "reduce_sourcing_time_from_weeks_to_minutes_with_our_streamlined_digital_platform": "Réduisez le temps d'approvisionnement de plusieurs semaines à quelques minutes grâce à notre plateforme numérique simplifiée.",
+
+     "save_money": "Économisez de l'argent",
+
+     "eliminate_middlemen_and_reduce_costs_with_direct_deals": "Éliminez les intermédiaires et réduisez les coûts grâce à des accords directs.",
+
+     "ecoflare_network": "Réseau ÉcoFlare",
+
+     "the": "La",
+
+     "smart_way": "Méthode intelligente",
+
+     "to_source_fresh_produce": "pour s'approvisionner en produits frais",
+
+     "ecolare_eliminates_traditional_supply_chain_inefficiencis": "EcoFlare élimine les inefficacités de la chaîne d'approvisionnement traditionnelle, vous connectant directement aux agriculteurs pour des produits plus frais à de meilleurs prix.",
+
+     "how_ecoflare_works_for_buyers": "Comment EcoFlare fonctionne pour les acheteurs",
+
+     "a_seamless_process_from_farm_to_your_business_in_just_a_few_simple_steps": "Un processus transparent de la ferme à votre entreprise en quelques étapes simples",
+
+     "simple_signup_with_intuitive_onboarding_in_minutes": "Inscription simple avec intégration intuitive en quelques minutes.",
+
+     "browse_and_compare": "Parcourir et comparer",
+
+     "search_product_grade_pricing_and_delivery_timelines_using_advanced_filters": "Recherchez par produit, qualité, prix et délais de livraison à l'aide de filtres avancés.",
+
+     "place_your_order": "Passez votre commande",
+
+     "select_the_best_deals_with_transparent_terms_and_instant_confirmation": "Sélectionnez les meilleures offres avec des conditions transparentes et une confirmation instantanée.",
+
+     "track_and_receive": "Suivre et recevoir",
+
+     "live_updates_and_on_time_delivery_with_guaranteed_quality_assurance": "Mises à jour en direct et livraison à temps avec assurance qualité garantie.",
+
+     "ready_to_transform_your_produce_sourcing": "Prêt à transformer votre approvisionnement en produits frais ?",
+
+     "join_thousands_of_smart_buyers_getting_frsher_produce": "Joignez-vous à des milliers d'acheteurs intelligents qui obtiennent des produits plus frais, de meilleurs prix et soutiennent l'agriculture durable, le tout sur une seule plateforme.",
+
+    "submit_produce_request": "Soumettre une demande de produit",
+     
+     "manage_your_branches": "Gérez vos succursales",
+     
+     "sell_direct_earn_more_waste_lesss": "Vendez directement. Gagnez plus. Gaspillez moins.",
+
+     "connect_directly_with_verified_buyers": "Connectez-vous directement avec des acheteurs vérifiés. Obtenez de meilleurs prix, réduisez le gaspillage et faites croître votre entreprise, le tout au même endroit.",
+
+     "build_for": "Conçu pour",
+
+     "by_farmers": ", par les agriculteurs",
+     
+     "everything_you_need_to_sell_efficiently_and_grow_your_farming_business": "Tout ce dont vous avez besoin pour vendre efficacement et faire croître votre entreprise agricole.",
+
+     "all_grades_welcome": "Tous les niveaux sont les bienvenus",
+
+     "sell_high_quality_grades_processing_grade_and_surplus_produce": "Vendre des produits de haute qualité, des produits de transformation et des surplus de produits",
+     
+     "future_harvest_sales": "Ventes de récoltes futures",
+
+     "list_upcoming_harvests_and_secure_buyers_in_advance": "Dressez la liste des récoltes à venir et assurez-vous des acheteurs à l'avance",
+
+     "mobile_friendly": "Compatible avec les appareils mobiles",
+
+     "manage_your_sales_from_the_field_with_our_farmer_app": "Gérez vos ventes sur le terrain avec notre application agricole",
+
+     "boost_your_produce_sales": "Augmentez vos ventes de produits",
+
+     "tap_into_high_demand_markets_and_increase_earnings_by_showcasing_your_entire_harvest_to_verified_buyer": "Exploitez les marchés à forte demande et augmentez vos revenus en présentant l'intégralité de votre récolte à des acheteurs vérifiés.",
+     
+     "nationwide_buyer_access": "Accès des acheteurs à l'échelle nationale",
+     
+     "connect_with_retailers_distributors_and_processors_across_the_country": "Connectez-vous avec des détaillants, des distributeurs et des transformateurs partout au pays, le tout depuis votre appareil mobile ou votre ordinateur portable.",
+     
+     "list_instantly_sell_quickly": "Listez instantanément, vendez rapidement",
+     
+     "upload_your_your_inventory_with_ease_and_start_receiving_buyer_interest_in_minutes": "Téléchargez votre inventaire facilement et commencez à piquer l'intérêt des acheteurs en quelques minutes. C'est aussi simple et rapide que ça.",
+     
+     "sell_every_grade_of_crop": "Vendre toutes les catégories de récoltes",
+     
+     "whether_its_surplus_or_slightly_imperfect_produce": "Que ce soit des surplus ou des produits légèrement imparfaits, notre plateforme garantit qu'aucune partie de votre récolte ne soit gaspillée.",
+     
+     "why": "Pourquoi",
+     
+     "farmers": "agricultrices",
+     
+     "trust_ecoflare": "faites confiance à ÉcoFlare",
+     
+     "how_selling_on_ecoflare_works": "Comment fonctionne la vente sur ÉcoFlare",
+     
+     "create_your_seller_profile": "Créez votre profil de vendeur",
+     
+     "receive_offers": "Recevoir des offres",
+
+     "confirm_and_ship": "Confirmer et expédier",
+
+     "get_paid_fast": "Soyez payé rapidement",
+
+     "ready_to_boost_your_farming_sales": "Prêt à augmenter vos ventes agricoles ?",
+
+     "join_thousands_of_farmers_who_are_getting_better_prices_and_reducing_waster_through_direct_sales": "Joignez-vous à des milliers d'agriculteurs qui obtiennent de meilleurs prix et réduisent le gaspillage grâce à la vente directe.",
+
+     "receive_produce_requests": "Recevoir des demandes de produits",
+
+     "become_a_seller": "Devenir vendeur",
+
+     "no_upfront_costs_get_your_first_sale_in_days": "Aucun frais initial • Faites votre première vente en quelques jours",
+
+     "start_buying": "Commencer à acheter",
+
+     "product_removed_from_wishlist_successfully": "Produit supprimé de la liste de souhaits avec succès !",
+
+     "product_added_to_wishlist_successfully": "Produit ajouté à la liste de souhaits avec succès !",
+
+     "please_login_to_add_items_to_cart": "Veuillez vous connecter pour ajouter des articles au panier",
+
+     "product_not_found": "Produit introuvable",
+
+     "product_added_to_cart_successfully": "Produit ajouté au panier avec succès !",
+
+     "failed_to_add_produce_to_cart": "Impossible d'ajouter le produit au panier",
+
+     "farm_fresh_marketplace": "Marché des produits frais de la ferme",
+
+     "discover_the_freshest_produce_directly_from_local_farms_and_suppliers": "Découvrez les produits les plus frais directement des fermes et des fournisseurs locaux partout au Canada.",
+
+     "filters": "Filtres",
+
+     "product_name": "Nom du produit...",
+     
+     "all_categories": "Toutes les catégories",
+
+     "price_range": "Gamme de prix",
+
+     "min": "Min",
+
+     "max": "Max",
+
+     "status": "Statut",
+
+     "all_status": "Tous les statuts",
+
+     "published": "Publié",
+
+     "draft": "Ébauche",
+
+     "seasonal": "Saisonnière",
+     
+     "out_of_stock": "En rupture de stock",
+
+     "in_stock": "En stock",
+
+     "organic": "Organique",
+
+     "all": "Toute",
+
+     "organic_only": "Bio seulement",
+
+     "non_organic": "Non biologique",
+
+     "stock_availability": "Disponibilité des stocks",
+
+     "currency": "Devise",
+
+     "all_currencies": "Toutes les devises",
+
+     "cad": "GOUJATE",
+     
+     "usd": "dollars américains",
+
+     "inr": "INR",
+
+     "close_menu": "Fermer le menu",
+
+     "category": "Catégorie",
+
+     "reset_filters": "Réinitialiser les filtres",
+
+     "product_catalog": "Catalogue de produits",
+
+     "error_loading_data:": "Erreur lors du chargement des données :",
+
+     "no_products_found_matching_your_filters": "Aucun produit ne correspond à vos filtres. Essayez d'ajuster vos critères de recherche.",
+
+     "products": "produits",
+
+     "showing": "Affichage",
+
+     "of": "de",
+
+     "adding....": "Ajout...",
+
+     "add_to_cart": "Ajouter au panier",
+
+     "off": "À L'ARRÊT",
+
+     "buying_in_bulk": "Acheter en vrac ?",
+
+     "category:": "Catégorie:",
+
+     "tags:": "Mots-clés :",
+
+     "vegetables_healthy": "Légumes sains",
+
+     "share:": "Partager:",
+
+     "price:": "Prix:",
+
+     "product_added_to_cart_successfully:": "Produit ajouté au panier avec succès !",
+
+     "failed_to_add_product_to_cart": "Impossible d'ajouter le produit au panier",
+     
+     "back_to_products": "Retour aux produits",
+
+     "review": "Examen",
+
+     "no_description_available": "Aucune description disponible.",
+
+     "buying_with_pricewise?": "Acheter avec Pricewise ?",
+
+     "choose_your_option": "Choisissez votre option",
+
+     "descriptions": "Descriptions",
+
+     "additional_information": "Informations complémentaires",
+
+     "customer_feedback": "Commentaires des clients",
+
+     "of_fresh_leaves_provides": "de feuilles fraîches fournit.",
+
+     "aliquam_ac:": "Aliquam ac est at augue volutpat elementum.",
+
+     "weight:": "Poids:",
+
+     "n/a": "N / A",
+
+     "stock_status": "État du stock :",
+
+     "available": "Disponible",
+    
+     "no_customer_feedback_yet": "Aucun commentaire client pour le moment.",
+
+     "no_description_available_for_this_product": "Aucune description disponible pour ce produit.",
+
+     "buy_now": "Acheter maintenant",
+
+     "coming_soon": "À venir",
+
+     "were_preparing_something": "On prépare quelque chose d'extraordinaire pour les acheteurs avertis. Restez à l'écoute pour la grande révélation !",
+
+     "launch_countdown": "Compte à rebours du lancement",
+
+     "get_ready_for_the_future_of_price_tracking": "Préparez-vous pour l'avenir du suivi des prix",
+
+     "days": "Jours",
+
+     "hours": "Heures",
+     
+     "minutes": "Minutes",
+
+     "seconds": "Secondes",
+
+     "recent_posts": "Articles récents",
+
+
+
+
+
+
+
+
+"fresh_fruits": "Fruits frais",
+  "organic_vegetables": "Légumes biologiques",
+  "direct_from_farms": "Directement des fermes",
+  "fresh_100": "100% Frais",
+  "popular_categories": "Catégories populaires",
+  "results": "résultats",
+  "page": "Page",
+  "stock": "Stock",
+  "quantity": "Quantité",
+  "min_order": "Commande min.",
+  "per": "par",
+  "description": "Description",
+  "available_stock": "Stock disponible",
+  "minimum_order": "Commande minimale",
+  "low_stock": "Stock faible",
+  "only": "Seulement",
+  "total_price": "Prix total",
+  "adding": "Ajout",
+
+  "continue_shopping": "Continuer les achats",
+  "view_full_details": "Voir les détails",
+
+  "unit": "Unité",
+ 
+   "loading_products": "Chargement des produits...",
+  "error_loading_data": "Erreur lors du chargement des données",
+  "try_again": "Réessayer",
+  "no_products_found": "Aucun produit trouvé",
+
+  "clear_filters": "Effacer les filtres",
+
+
+  "login_to_add_wishlist": "Veuillez vous connecter pour ajouter à la liste de souhaits",
+  "removed_from_wishlist": "Supprimé de la liste de souhaits",
+  "added_to_wishlist": "Ajouté à la liste de souhaits",
+  "login_to_submit_review": "Veuillez vous connecter pour soumettre un avis",
+  "review_submitted_successfully": "Avis soumis avec succès!",
+  "failed_to_submit_review": "Échec de l'envoi de l'avis",
+  "bulk_discounts_available": "Remises en gros disponibles",
+  "free_shipping": "Livraison gratuite",
+
+  "reviews": "Avis",
+  "quantity_discounts": "Remises par quantité",
+  "total": "Total",
+  "not_available": "N/A",
+  "already_in_cart": "Déjà dans le panier",
+
+  "specifications": "Spécifications",
+  "pricing_tiers": "Niveaux de prix",
+  "organic_certified": "Certifié biologique",
+  "yes": "Oui",
+  "no": "Non",
+  "harvest_date": "Date de récolte",
+  "expiry_date": "Date d'expiration",
+  "anonymous": "Anonyme",
+  "quantity_discount_tiers": "Remises par quantité",
+  "price_per": "Prix par",
+  "shipping": "Livraison",
+  "free": "GRATUIT",
+  "min_total": "Total minimum",
+
+
+  "write_review": "Écrire un avis",
+  "your_rating": "Votre note",
+  "review_title": "Titre de l'avis",
+  "review_title_placeholder": "Qu'est-ce qui est le plus important à savoir ?",
+  "your_review": "Votre avis",
+  "review_comment_placeholder": "Partagez votre expérience avec ce produit...",
+  "cancel": "Annuler",
+  "submitting": "Soumission...",
+  "submit_review": "Soumettre l'avis",
+
+   "share_this_product": "Partager ce produit",
+  "copy_link": "Copier le lien",
+  "link_copied": "Lien copié dans le presse-papiers !",
+  "share_product_text": "Découvrez {{product}} sur EcoFlare !",
+
+  "failed_remove_wishlist": "Échec de la suppression de la liste de souhaits",
+  "login_to_add_cart": "Veuillez vous connecter pour ajouter des articles au panier",
+  "product_added_to_cart_success": "Produit ajouté au panier avec succès !",
+  "failed_add_product_cart": "Échec de l'ajout du produit au panier",
+
+  "loading_wishlist": "Chargement de votre liste de souhaits...",
+  "unable_to_load_wishlist": "Impossible de charger la liste de souhaits",
+
+  "my_wishlist": "Ma liste de souhaits",
+  "wishlist_item_count": "Vous avez {{count}} article(s) dans votre liste de souhaits",
+  "wishlist_empty_text": "Vos produits favoris apparaîtront ici",
+
+  "product": "Produit",
+  "price": "Prix",
+  "actions": "Actions",
+
+  "unnamed_product": "Produit sans nom",
+ 
+  "unknown": "Inconnu",
+
+
+
+  "remove_from_wishlist": "Supprimer de la liste de souhaits",
+
+  "share_your_wishlist": "Partager votre liste de souhaits",
+
+
+  "wishlist_empty": "Votre liste de souhaits est vide",
+  "wishlist_empty_description": "Commencez à explorer notre marketplace et ajoutez vos produits préférés à votre liste de souhaits.",
+  "browse_products": "Parcourir les produits",
+
+
+  "loading_cart": "Chargement de votre panier...",
+  "error_loading_cart": "Erreur lors du chargement du panier",
+
+
+  "your_shopping_cart": "Votre panier",
+  "items": "articles",
+
+
+
+
+ 
+
+  "proceed_to_checkout": "Passer à la caisse",
+
+  "secure_checkout_message": "Paiement sécurisé. Toutes les transactions sont chiffrées et protégées.",
+
+  "checkout": "Paiement",
+  "back_to_cart": "Retour au panier",
+
+  "order_confirmed": "Commande confirmée !",
+  "order_thank_you": "Merci pour votre commande. Votre numéro de commande est #{{id}}.",
+  "order_email_confirmation": "Nous avons envoyé un e-mail de confirmation à {{email}}.",
+  "view_order_details": "Voir les détails de la commande",
+
+
+  "total_items": "Articles totaux",
+  "available_items": "Articles disponibles",
+  "total_quantity": "Quantité totale",
+
+  "select_shipping_address": "Sélectionner l'adresse de livraison",
+  "loading_addresses": "Chargement des adresses...",
+  "primary": "Principale",
+  "rural_delivery_area": "Zone de livraison rurale",
+  "no_saved_addresses": "Vous n'avez aucune adresse enregistrée",
+  "add_new_address": "Ajouter une nouvelle adresse",
+
+  "payment_method": "Méthode de paiement",
+  "credit_debit_card": "Carte de crédit/débit",
+  "secure_payment_stripe": "Paiement sécurisé avec Stripe",
+
+  "order_summary": "Résumé de la commande",
+  "cart_empty": "Votre panier est vide",
+  "per_unit": "par",
+
+  "subtotal": "Sous-total",
+  "discount": "Remise",
+  "total_amount": "Montant total",
+
+  "secure_checkout": "Paiement sécurisé",
+  "secure_checkout_description": "Votre commande est sécurisée et chiffrée. Nous respectons votre vie privée et protégeons vos informations personnelles.",
+
+  "processing": "Traitement...",
+  "place_order": "Passer la commande - CAD {{total}}",
+  "pay_with_card": "Payer par carte - CAD {{total}}",
+
+  "unavailable_items_message": "{{count}} article(s) dans votre panier ne sont pas disponibles",
+  "cart_empty_message": "Votre panier est vide. Ajoutez des produits pour continuer.",
+  "select_shipping_address_message": "Veuillez sélectionner une adresse de livraison pour continuer",
+
+  "secure_payment": "Paiement sécurisé",
+  "enter_card_details": "Entrez les détails de votre carte pour finaliser le paiement de CAD {{total}}",
+
+  "dashboard": "Tableau de bord",
+  "order_history": "Historique des commandes",
+  "wishlist": "Liste de souhaits",
+  "shopping_cart": "Panier",
+  "settings": "Paramètres",
+
+  "profile": "Profil",
+  "billing": "Facturation",
+  "quick_actions": "Actions rapides",
+
+  "welcome_back": "Bon retour, {{name}} !",
+  "dashboard_summary": "Voici ce qui se passe aujourd'hui avec votre compte EcoFlare.",
+
+  "total_orders": "Commandes totales",
+  "wishlist_items": "Articles favoris",
+  "cart_items": "Articles dans le panier",
+  "total_spent": "Total dépensé",
+
+  "latest_order": "Dernière commande",
+  "order_date": "Date de commande",
+  "view_all_orders": "Voir toutes les commandes →",
+
+  "support_contact": "Besoin d'aide ? Contactez notre support à support@ecoflaresolutions.com",
+
+  "billing_address": "Adresse de facturation",
+  "loading": "Chargement...",
+  "error": "Erreur",
+  "no_address_found": "Aucune adresse trouvée",
+
+  "filter_orders": "Filtrer les commandes",
+  "quick_filters": "Filtres rapides",
+  "today": "Aujourd'hui",
+  "last_7_days": "7 derniers jours",
+  "last_30_days": "30 derniers jours",
+  "last_90_days": "90 derniers jours",
+
+  "start_date": "Date de début",
+  "end_date": "Date de fin",
+
+  "filtering": "Filtrage...",
+  "apply_filter": "Appliquer le filtre",
+
+  "showing_orders_from": "Affichage des commandes du",
+
+  "confirmed": "Confirmé",
+  "pending": "En attente",
+
+  "loading_orders": "Chargement des commandes...",
+  "no_orders_found": "Aucune commande trouvée",
+  "no_orders_description": "Vous n'avez passé aucune commande dans la période sélectionnée.",
+  "browse_marketplace": "Parcourir le marché",
+
+  "order_number": "Commande #",
+  "amount": "Montant",
+  "date": "Date",
+
+  "view": "Voir",
+
+  "back_to_orders": "Retour aux commandes",
+  "placed_on": "Passé le",
+
+  "generate_invoice": "Générer la facture",
+  "invoice_after_payment": "Facture disponible après paiement",
+
+  "product_details": "Détails du produit",
+  "order_details": "Détails de la commande",
+  "seller_information": "Informations du vendeur",
+  "delivery_address": "Adresse de livraison",
+  "status_summary": "Résumé du statut",
+  "payment_information": "Informations de paiement",
+  "delivery_information": "Informations de livraison",
+  "order_timeline": "Historique de la commande",
+
+  "base_price": "Prix de base",
+
+  "discounted_price": "Prix remisé",
+
+
+  "order_status": "Statut de la commande",
+  "payment_status": "Statut du paiement",
+
+  "total_paid": "Total payé",
+
+  "expected_delivery": "Livraison prévue",
+  "order_placed": "Commande passée",
+  "last_updated": "Dernière mise à jour",
+
+  "order_history_description": "Voir et gérer votre historique de commandes",
+  "hide_filters": "Masquer les filtres",
+  "show_filters": "Afficher les filtres",
+
+
+
+  "seller_dashboard_description": "Gérez vos produits, commandes et analyses",
+
+  "loading_dashboard": "Chargement de votre tableau de bord...",
+
+  "welcome_back_seller": "Bon retour, {{name}} !",
+  "seller": "Vendeur",
+
+  "member_since": "Membre depuis",
+
+  "primary_phone": "Téléphone principal",
+  "whatsapp_business": "WhatsApp Business",
+
+  "connected": "Connecté",
+
+  "account_status": "Statut du compte",
+  "active_seller": "Vendeur actif",
+  "online": "En ligne",
+
+  "verified_seller": "Vendeur vérifié",
+  "verification_pending": "Vérification en attente",
+
+  "manage_products": "Gérer les produits",
+  "manage_products_desc": "Ajouter, modifier ou supprimer vos produits",
+  "view_products": "Voir les produits",
+
+  "order_management": "Gestion des commandes",
+  "order_management_desc": "Traiter et gérer les commandes clients",
+  "view_orders": "Voir les commandes",
+
+  "add_new_product": "Ajouter un nouveau produit",
+  "add_product_desc": "Lister de nouveaux produits sur la marketplace",
+  "create_listing": "Créer une annonce",
+
+  "negotiation_requests": "Demandes de négociation",
+  "negotiation_requests_desc": "Voir et répondre aux demandes des clients",
+  "view_requests": "Voir les demandes",
+
+  "business_analytics": "Analyse commerciale",
+  "analytics_description": "Suivez vos ventes et vos performances",
+
+  "seller_analytics": "Analyse du vendeur",
+  "loading_analytics": "Chargement de vos analyses...",
+  "preparing_business_insights": "Préparation des informations de votre entreprise",
+  "unable_load_analytics": "Impossible de charger les analyses",
+  "go_back": "Retour",
+
+  "your_business": "Votre entreprise",
+  "year": "Année",
+
+  "total_revenue": "Revenu total",
+  "paid_amount": "Montant payé",
+  "unpaid_amount": "Montant impayé",
+
+  "vs_last_month": "par rapport au mois dernier",
+  "collected": "collecté",
+
+  "orders": "Commandes",
+  "revenue": "Revenu",
+
+  "monthly_revenue_analysis": "Analyse mensuelle des revenus",
+  "revenue_trends": "Tendances des revenus et statut des paiements",
+  "top_products_performance": "Performance des meilleurs produits",
+  "revenue_vs_quantity": "Revenu vs quantité vendue",
+  "category_distribution": "Répartition par catégorie",
+  "revenue_by_category": "Revenu par catégorie",
+
+  "avg_monthly": "Moyenne mensuelle",
+  "peak_month": "Mois le plus performant",
+
+  "top_products": "Meilleurs produits",
+  "best_performing_items": "Articles les plus performants",
+  "no_products_sold": "Aucun produit vendu pour le moment",
+  "start_selling_analytics": "Commencez à vendre pour voir les analyses",
+
+  "monthly_performance": "Performance mensuelle",
+  "click_month_details": "Cliquez sur un mois pour voir les détails",
+
+  "active": "Actif",
+  "no_sales": "Aucune vente",
+
+  "products_sold": "Produits vendus",
+  "category_performance": "Performance par catégorie",
+
+  "payment_summary": "Résumé des paiements",
+  "collection_rate": "Taux de collecte",
+
+  "verified_blockchain_data": "Données blockchain vérifiées",
+  "blockchain_transactions": "Toutes les transactions sont enregistrées sur la blockchain",
+
+  "total_transactions": "Transactions totales",
+
+  "customer": "Client",
+  "expected": "Prévu",
+   "order_id": "ID de commande",
+
+
+   "loading_order_details": "Chargement des détails de la commande...",
+  "unable_load_order": "Impossible de charger la commande",
+
+
+  "invoice_after_delivery": "Facture disponible après livraison",
+
+  "order_progress": "Progression de la commande",
+  "update_order_status": "Mettre à jour le statut de la commande",
+  "complete": "Terminé",
+
+ 
+
+  "customer_information": "Informations client",
+
+  "transaction_id": "ID de transaction",
+ 
+
+  "current_status": "Statut actuel",
+  "final_status": "Statut final",
+  "select_next_status": "Sélectionner le statut suivant",
+  "select_next_status_placeholder": "Sélectionner le statut suivant",
+  "no_further_status": "Aucune mise à jour supplémentaire du statut n'est disponible pour cette commande.",
+
+  "update_status": "Mettre à jour le statut",
+  "updating": "Mise à jour...",
+
+
+  "loading_negotiations": "Chargement des négociations...",
+  "error_loading_negotiations": "Erreur lors du chargement des négociations",
+  "retry": "Réessayer",
+
+  "my_negotiations": "Mes négociations",
+  "track_negotiations": "Suivez et gérez vos négociations de produits",
+
+  "pending_negotiations_message": "Vous avez {{count}} négociations en attente",
+
+  "search_negotiations": "Rechercher des négociations ou fournisseurs...",
+
+  "approved": "Approuvé",
+  "completed": "Terminé",
+
+  "delivery_date": "Date de livraison",
+  "responses": "Réponses",
+
+  "quotes": "devis",
+
+  "view_details": "Voir les détails",
+
+  "no_matching_negotiations": "Aucune négociation correspondante trouvée",
+  "no_negotiations": "Aucune négociation disponible",
+
+
+  "loading_conversation_details": "Chargement des détails de la conversation...",
+  "fetching_profiles_messages": "Récupération des profils utilisateurs et messages",
+
+  "error_loading_negotiation": "Erreur lors du chargement de la négociation",
+
+  "negotiation_conversation": "Conversation de négociation",
+
+  "conversation": "Conversation",
+
+  "price_comparison": "Comparaison des prix",
+  "original_price": "Prix original",
+  "latest_buyer_offer": "Dernière offre de l'acheteur",
+  "seller_offer": "Offre du vendeur",
+
+  "conversation_history": "Historique de conversation",
+  "messages": "messages",
+
+  "you": "Vous",
+  "reply_offer": "Répondre à l'offre",
+  "accept_offer": "Accepter l'offre",
+  "reject_offer": "Refuser l'offre",
+
+  "product_features": "Caractéristiques du produit",
+  "pricing_information": "Informations sur les prix",
+
+  "make_counter_offer": "Faire une contre-offre",
+  "expected_quantity": "Quantité attendue",
+  "expected_price": "Prix attendu",
+
+  "delivery_start_date": "Date de début de livraison",
+  "delivery_end_date": "Date de fin de livraison",
+
+  "send_counter_offer": "Envoyer la contre-offre",
+
+  "congratulations": "Félicitations !",
+  "go_to_agreement": "Aller à l'accord",
+
+   "processing_payment": "Traitement du paiement",
+  "processing_payment_message": "Veuillez patienter pendant que nous traitons votre paiement en toute sécurité",
+  "stripe_secure_message": "Sécurisé par Stripe • Ne fermez pas cette fenêtre",
+
+  "contract_not_found": "Contrat introuvable",
+
+  "payment_successful": "Paiement réussi !",
+  "refreshing_contract": "Actualisation des données du contrat...",
+
+  "agreement_completed": "Accord terminé",
+  "both_parties_signed": "Les deux parties ont signé avec succès",
+
+  "agreement_signed": "Accord signé !",
+  "complete_advance_payment": "Veuillez effectuer le paiement anticipé pour finaliser l'accord.",
+  "waiting_buyer_payment": "En attente du paiement anticipé de l'acheteur.",
+
+  "deal_summary": "Résumé de l'accord",
+
+  "buyer": "Acheteur",
+  "grade": "Qualité",
+  "price_per_kg": "Prix par kg",
+
+  "signatures": "Signatures",
+
+  "payment_details": "Détails du paiement",
+  "contract_total": "Total du contrat",
+  "advance_payment": "Paiement anticipé",
+  "due_amount": "Montant dû",
+  "remaining_to_pay": "Montant restant à payer",
+  "final_payment": "Paiement final",
+  "due_after_delivery": "À payer après la livraison",
+
+  "blockchain_verification": "Vérification Blockchain",
+  "advance_payment_completed": "Paiement anticipé terminé",
+  "advance_payment_pending": "Paiement anticipé en attente",
+
+  "pay_advance": "Payer l'avance",
+  "initializing_payment": "Initialisation du paiement...",
+
+   "loading_transactions": "Chargement de vos transactions...",
+  "my_transactions": "Mes transactions",
+  "back_to_dashboard": "Retour au tableau de bord",
+  "search_transactions": "Rechercher par ID RFQ, produit, acheteur ou vendeur...",
+  "advance_pending": "Avance en attente",
+  "advance_paid": "Avance payée",
+  "partial_payment": "Paiement partiel",
+  "no_transactions_found": "Aucune transaction trouvée",
+  "adjust_search_filters": "Essayez d'ajuster votre recherche ou vos filtres",
+  "no_transactions_yet": "Vous n'avez encore effectué aucune transaction",
+
+  "paid": "Payé",
+  "due": "Dû",
+  "previous": "Précédent",
+  "next": "Suivant",
+
+
+
+
+  "transaction_details": "Détails de la transaction",
+  "rfq_id": "ID RFQ",
+  "parties": "Parties",
+  "buyer_signed": "Signature de l'acheteur",
+  "seller_signed": "Signature du vendeur",
+  "remaining": "Restant",
+  "payment_schedule": "Calendrier des paiements",
+  "installment": "Versement",
+  "pay_now": "Payer maintenant",
+  "mark_as_dispatched": "Marquer comme expédié",
+  "mark_as_delivered": "Marquer comme livré",
+  "all_payments_completed": "Tous les paiements terminés",
+  "view_final_agreement": "Voir l'accord final",
+  "generating_agreement": "Génération de l'accord...",
+  "last_payment": "Dernier paiement",
+  "type": "Type",
+  "method": "Méthode",
+  "transaction_hash": "Hash de transaction",
+  "block_number": "Numéro de bloc",
+  "timestamp": "Horodatage",
+  "created": "Créé",
+  "transaction_not_found": "Transaction introuvable",
+  "processing_installment_payment": "Traitement du paiement",
+  "secured_by_stripe": "Sécurisé par Stripe • Ne fermez pas cette fenêtre",
+
+
+  "update_personal_information": "Mettre à jour vos informations personnelles",
+  "view_profile_details": "Voir les détails de votre profil",
+  "edit_profile": "Modifier le profil",
+  "personal_information": "Informations personnelles",
+
+  "alternate_number": "Numéro alternatif",
+  "whatsapp_number": "Numéro WhatsApp",
+  "gender": "Genre",
+  "select_gender": "Sélectionner le genre",
+  "male": "Homme",
+  "female": "Femme",
+  "other": "Autre",
+  "instagram_profile": "Profil Instagram",
+  "facebook_profile": "Profil Facebook",
+  "save_changes": "Enregistrer les modifications",
+  "saving": "Enregistrement...",
+  "profile_updated_success": "Profil mis à jour avec succès",
+  "profile_update_failed": "Échec de la mise à jour du profil",
+  "not_provided": "Non fourni",
+
+
+   "loading_plans": "Chargement des plans disponibles...",
+  "unable_load_plans": "Impossible de charger les plans",
+  "complete_payment": "Compléter le paiement",
+  "plan": "Plan",
+  "duration": "Durée",
+  "login_required": "Connexion requise",
+  "current_plan": "Plan actuel",
+  "unavailable": "Indisponible",
+  "initializing": "Initialisation...",
+  "subscribe_now": "S'abonner",
+  "subscription_success": "Abonnement réussi !",
+  "continue": "Continuer",
+  "choose_subscription_plan": "Choisissez votre plan d'abonnement",
+  "subscription_plan_description": "Sélectionnez le plan parfait pour vos besoins. Tous les plans incluent des fonctionnalités premium.",
+  "per_month": "/mois",
+
+
+  
+  "select_address_to_see_tax": "Sélectionnez une adresse de livraison pour voir les détails de la taxe",
+
+
+  "total_paid_amount": "Montant total payé",
+  "base_price_per_unit": "Prix de base par unité",
+  "discounted_price_per_unit": "Prix réduit par unité",
+  "discount_percentage": "Pourcentage de réduction",
+  "shipping_charges": "Frais de livraison",
+  "total_before_tax": "Total avant taxes",
+  "tax_amount": "Montant de la taxe",
+  "total_with_tax": "Total avec taxes",
+  "summary": "Résumé",
+  "total_discount": "Réduction totale",
+  "tax_details": "Détails des taxes",
+  "total_tax": "Total des taxes",
+  "amount_with_tax": "Montant avec taxes",
+  "tax_information": "Informations fiscales",
+  "province": "Province",
+  "total_tax_rate": "Taux de taxe total",
+  "subtotal_amount_without_tax": "Sous-total (sans taxes)",
+
+  "tax": "Taxe",
+
+
+   "subtotal_without_tax": "Sous-total (sans taxes)",
+ 
+  "incl_tax": "taxes incluses",
+  "tax_rate": "taux de taxe",
+ 
+  "total_tax_paid": "Taxes totales payées",
+
+   "delivery_address_required": "Adresse de livraison requise",
+  "delivery_address_required_message": "Veuillez ajouter une adresse de livraison avant de procéder au paiement. Nous avons besoin de votre adresse pour calculer les frais de livraison et estimer le délai de livraison.",
+  "address_required_warning": "Sans adresse de livraison, vous ne pouvez pas finaliser votre achat. Veuillez ajouter votre adresse pour continuer.",
+  "maybe_later": "Peut-être plus tard",
+  "add_address": "Ajouter une adresse",
+  "delivery_address_missing": "Adresse de livraison manquante",
+  "add_address_to_checkout": "Veuillez ajouter une adresse de livraison pour procéder au paiement. Nous avons besoin de votre adresse pour calculer les frais de livraison.",
+
+  "processing_final_payment": "Traitement du paiement final"
+  
+ 
+
+
+}
+  

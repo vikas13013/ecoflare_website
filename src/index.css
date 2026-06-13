@@ -1,0 +1,373 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('/fonts/MyCustomFont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* styles.css */
+.title-text {
+  @apply text-[28px] sm:text-[36px] md:text-[48px] font-bold;
+}
+
+.subtitle-text {
+  @apply text-[18px] sm:text-[24px] md:text-[30px] font-semibold text-gray-700;
+}
+
+.description-text {
+  @apply text-[14px] sm:text-[16px] md:text-[18px] text-gray-600;
+}
+
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+html, body{
+  width: 100%;
+}
+
+/* Hide scrollbar for all browsers */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE & Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;             /* Chrome, Safari and Opera */
+}
+
+
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  display: none !important; /* Hide Swiper's default arrow */
+}
+
+
+
+.p-buttn{
+  font-size: 2px !important;
+
+}
+/* In your index.css or global CSS file */
+body {
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For IE and Edge */
+}
+
+body::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Opera */
+}
+
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+
+  /* request Form */
+
+  @layer components {
+    .input {
+      @apply w-full px-4 py-2 rounded border border-gray-300 focus:ring-2 focus:ring-green-500 outline-none bg-white;
+    }
+    .btn-toggle {
+      @apply px-4 py-2 rounded-full border border-gray-300 text-sm font-medium text-gray-700 hover:bg-green-100;
+    }
+    .btn-toggle.active {
+      @apply bg-green-200 text-green-800 border-green-400;
+    }
+    .btn-outline {
+      @apply px-6 py-2 border border-gray-400 rounded text-gray-700 hover:bg-gray-100;
+    }
+    .btn-primary {
+      @apply px-6 py-2 bg-orange-500 text-white rounded hover:bg-orange-600;
+    }
+  }
+  
+  /* request Form */
+
+
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.15s ease-out forwards;
+}
+
+.swiper-pagination-bullet-active {
+  background: #16a34a !important;
+}
+
+.testimonials-slider {
+  padding-bottom: 3rem !important;
+}
+.swiper-container {
+  padding: 10px 0;
+}
+
+.swiper-slide {
+  opacity: 0.8;
+  transition: opacity 0.3s;
+  display: flex;
+  justify-content: center;
+}
+
+.swiper-slide-active {
+  opacity: 1;
+}
+.mb-60-cus{
+  margin-bottom: 62px;
+}
+.w-22-cus{
+  width: 22rem;
+}
+.dis-cus {
+  display: flex;
+  justify-content: space-around;
+ 
+}
+.hm-1slide1{
+  background-image: url('./assets/images/home-slider/img-1.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  
+}
+
+.hm-1slide2{
+  background-image: url('./assets/images/home-slider/img-2.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+ 
+}
+.hm-1slide3{
+  background-image: url('./assets/new-images/project-5-420x350.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+ 
+}
+.custom-bg {
+  background: url('/src/assets/images/image\ 11.png'), linear-gradient(135deg, #1f4e3d 10%, #1f4e3d 90%);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.custom-bg-btm {
+  background: url('/src/assets/images/image\ 11.png'), linear-gradient(135deg, #1f4e3d 0%, #1f4e3d 100%);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+/* Optional: Add a subtle texture effect */
+.custom-bg::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+ 
+  background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+  background-size: 8px 8px;
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+/* ---------------------- Buyer Dashboard ------------------------------ */
+.hero-cus {
+  background: url('assets/images/buyer/banner.webp') center/cover no-repeat;
+  height: 250px;
+  position: relative;
+}
+.w-35{
+  width: 35%;
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 1px solid white;
+  background-color: #fff;
+}
+
+.btn-clr {
+  background-color: #ff8800;
+  transition: all linear 0.34s;
+  color: white;
+}
+
+.btn-clr:hover {
+  background-color: #be6500;
+  color: white;
+}
+
+.profile-container {
+  position: relative;
+  top: -110px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  width: 100%;
+}
+/* register model css */
+.custom-select {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  border: 1px solid #d1d5db; /* Tailwind's gray-300 */
+  border-radius: 9999px; /* Fully rounded like input */
+  background-color: white;
+  font-size: 1rem;
+  color: #111827; /* Tailwind's gray-900 */
+  appearance: none; /* Removes default arrow in some browsers */
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20fill%3D%22gray%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%20width%3D%2220%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M5.516%207.548L10%2012.032l4.484-4.484L16%208.064l-6%206-6-6z%22/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  background-size: 1rem;
+  cursor: pointer;
+  transition: border 0.3s, box-shadow 0.3s;
+}
+
+.custom-select:focus {
+  outline: none;
+  border-color: #10b981; /* Tailwind's green-500 */
+  box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.4);
+}
+.custom-select option {
+  padding: 10px;
+  background: white;
+  color: #111827;
+}
+/* ------------------------- about page ---------------------------------*/
+.about-bg {
+  background-image: 
+  linear-gradient(to right, rgb(255 255 255 / 0%) 10%, rgb(255 255 255) 100%), url(/src/assets/images/about/bg.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.absolute-cus{
+  position: absolute;
+}
+.bdr-cus{
+  border: 2px solid #73aa4c8f;
+}
+.bg-gradient-image {
+  /* position: relative; */
+  background-image: url('../src/assets/images/marketplace/image.png'); /* Replace with your image URL */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.das-profile{
+  margin-left: 164px;
+  margin-top: -26px;
+}
+.bg-service{
+  background-color: #1f4e3d;
+}
+.width-30{
+  width: 30vw;
+}
+.hvr-scl{
+  transition: all linear 0.34s;
+}
+.hvr-scl:hover{
+  scale: 1.2;
+  transition: all linear 0.34s;
+}
+/* responsive style start */
+@media (max-width: 640px) {
+  .dis-none{
+    display: none;
+  }
+  .dis-cus{
+    justify-content: space-between !important;
+    display: flex;
+  }
+  .absolute-cus{
+    position: relative !important;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+  .dis-none{
+    display: none;
+  }
+  .dis-cus{
+    justify-content: space-between !important;
+    display: flex;
+  }
+  .absolute-cus{
+    position: relative !important;
+  }
+}
+
+/* Medium Screens (768px - 1023px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .dis-none{
+    display: none;
+  }
+  .absolute-cus{
+    position: relative !important;
+  }
+}
+
+/* Large Screens (1024px - 1279px) */
+@media (min-width: 1024px) and (max-width: 1299px) {
+  .absolute-cus{
+    position: relative !important;
+  }
+}
+
+/* Extra Large Screens (1280px - 1535px) */
+@media (min-width: 1300px) and (max-width: 1535px) {
+
+}
+
+/* 2XL Screens (1536px and above) */
+@media (min-width: 1536px) {
+
+}
+
+.t-white:hover {
+  color: white !important;
+}
+
+
+
+
+
